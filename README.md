@@ -32,10 +32,10 @@ Frontend Developer with a UX/UI Design background.
 
 ## 🚀 Featured Project
 
-🍽 Reciplan  
+🍽 Forkcast
 Meal planning web application that generates weekly recipes and shopping lists.
 
-🔗 https://www.reciplan.org/
+🔗 [Go to Forkcast](https://www.reciplan.org/)
 
 ---
 
