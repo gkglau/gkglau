@@ -33,7 +33,12 @@ Frontend Developer with a UX/UI Design background.
 ## 🚀 Featured Project
 
 🍽 Forkcast
-Meal planning web application that generates weekly recipes and shopping lists.
+
+Forkcast is a web application designed to simplify time management in the kitchen. It helps users plan their weekly meals and automatically generate organized shopping lists.
+
+The application was built with Ruby on Rails and integrated AI features to assist with recipe generation and meal planning. To create a more dynamic and responsive user experience, we implemented tools such as Hotwire, AJAX, SweetAlert modals, and Sortable.
+
+This project was developed in a collaborative team environment, where communication, coordination, and shared problem-solving played a key role in bringing the product to life.
 
 🔗 [Go to Forkcast](https://www.reciplan.org/)
 
