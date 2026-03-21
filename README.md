@@ -1,11 +1,11 @@
-Frontend Developer with a UX/UI Design background.
+Hi, I'm Glau a Frontend Developer with UX/UI Design background.
 
 ☕ Coffee | 📚 Books | 🐈‍⬛ Cats | 💻 Code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8E977D?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glau-grossi)
 
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 ![Ruby](https://img.shields.io/badge/Ruby-8E977D?logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-8E977D?logo=rubyonrails&logoColor=white)
@@ -17,7 +17,7 @@ Frontend Developer with a UX/UI Design background.
 
 ---
 
-## 🚀 Featured Project
+ 🚀 Featured Project
 
 🍽 Forkcast
 
