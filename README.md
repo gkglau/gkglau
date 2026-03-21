@@ -4,15 +4,6 @@ Frontend Developer with a UX/UI Design background.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8E977D?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glau-grossi)
 
----
-
-## 💻 Current Focus
-
-- Ruby on Rails
-- Web Development
-- UI/UX Design
-
----
 
 ## 🛠 Tech Stack
 
