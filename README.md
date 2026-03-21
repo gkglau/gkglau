@@ -17,7 +17,7 @@ Hi, I'm Glau a Frontend Developer with UX/UI Design background.
 
 ---
 
- 🚀 Featured Project
+ 🚀 Featured Projects
 
 🍽 Forkcast
 
@@ -28,5 +28,10 @@ The application was built with Ruby on Rails and integrated AI features to assis
 This project was developed in a collaborative team environment, where communication, coordination, and shared problem-solving played a key role in bringing the product to life.
 
 🔗 [Go to Forkcast](https://www.reciplan.org/)
+
+🎮 A&D
+
+A fun, decision-based role-playing game, where you can create your own character and story or leave it up to AI to take you on a journey.
+[Play A&D](https://a-n-d-6c853770e414.herokuapp.com/)
 
 ---
