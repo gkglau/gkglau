@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8E977D&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8E977D&center=true&vCenter=true&width=600&lines=Hi+I'm+Glau;Frontend+Developer;UX%2FUI+Background)](https://git.io/typing-svg)
-
 Frontend Developer with a UX/UI Design background.
 
 ☕ Coffee | 📚 Books | 🐈‍⬛ Cats | 💻 Code
@@ -43,11 +39,3 @@ This project was developed in a collaborative team environment, where communicat
 🔗 [Go to Forkcast](https://www.reciplan.org/)
 
 ---
-
-## 🌎 Languages
-
-Portuguese | English | Japanese
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkglau&layout=compact&theme=transparent&title_color=8E977D&text_color=8E977D)
