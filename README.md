@@ -2,8 +2,7 @@ Hi, I'm Glau a Frontend Developer with UX/UI Design background.
 
 ☕ Coffee | 📚 Books | 🐈‍⬛ Cats | 💻 Code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E977D?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glau-grossi)
-
+---
 
  🛠 Tech Stack
 
