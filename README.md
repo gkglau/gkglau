@@ -32,6 +32,7 @@ This project was developed in a collaborative team environment, where communicat
 🎮 A&D
 
 A fun, decision-based role-playing game, where you can create your own character and story or leave it up to AI to take you on a journey.
-[Play A&D](https://a-n-d-6c853770e414.herokuapp.com/)
+
+🔗 [Play A&D](https://a-n-d-6c853770e414.herokuapp.com/)
 
 ---
