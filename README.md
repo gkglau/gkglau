@@ -1,7 +1,5 @@
 Hi, I'm Glau a Frontend Developer with UX/UI Design background.
 
-☕ Coffee | 📚 Books | 🐈‍⬛ Cats | 💻 Code
-
 ---
 
  🛠 Tech Stack
@@ -9,29 +7,10 @@ Hi, I'm Glau a Frontend Developer with UX/UI Design background.
 ![Ruby](https://img.shields.io/badge/Ruby-8E977D?logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-8E977D?logo=rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8E977D?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8E977D?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-8E977D?logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-8E977D?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8E977D?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-8E977D?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8E977D?logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-8E977D?logo=figma&logoColor=white)
-
----
-
- 🚀 Featured Projects
-
-🍽 Forkcast
-
-Forkcast is a web application designed to simplify time management in the kitchen. It helps users plan their weekly meals and automatically generate organized shopping lists.
-
-The application was built with Ruby on Rails and integrated AI features to assist with recipe generation and meal planning. To create a more dynamic and responsive user experience, we implemented tools such as Hotwire, AJAX, SweetAlert modals, and Sortable.
-
-This project was developed in a collaborative team environment, where communication, coordination, and shared problem-solving played a key role in bringing the product to life.
-
-🔗 [Go to Forkcast](https://www.reciplan.org/)
-
-🎮 A&D
-
-A fun, decision-based role-playing game, where you can create your own character and story or leave it up to AI to take you on a journey.
-
-🔗 [Play A&D](https://a-n-d-6c853770e414.herokuapp.com/)
-
----
